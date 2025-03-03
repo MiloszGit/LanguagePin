@@ -3,7 +3,6 @@ import json
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QLineEdit, QLabel, QListWidget, QMessageBox, QInputDialog, QComboBox
 import random
 
-# Funkcje do ładowania i zapisywania słówek w pliku JSON
 def load_words():
     try:
         with open("words.json", "r") as file:
@@ -22,12 +21,10 @@ class WordLearningApp(QWidget):
         self.setWindowTitle("Aplikacja do nauki słówek")
         self.setGeometry(100, 100, 400, 500)
 
-        self.words = load_words()  # Załaduj słówka z pliku JSON
+        self.words = load_words()  
 
-        # Layouty
         self.layout = QVBoxLayout()
-
-        # Pola i przyciski
+        
         self.language_select = QComboBox(self)
         self.language_select.addItems(["Wybierz język", "Angielski"])
 
@@ -53,7 +50,6 @@ class WordLearningApp(QWidget):
 
         self.setLayout(self.layout)
 
-        # Podłączenie zdarzeń
         self.add_button.clicked.connect(self.add_word)
         self.quiz_button.clicked.connect(self.start_quiz)
 
@@ -70,7 +66,7 @@ class WordLearningApp(QWidget):
 
         if word and translation:
             self.words.append({"language": language, "word": word, "translation": translation})
-            save_words(self.words)  # Zapisz nowe słówko do pliku
+            save_words(self.words) 
             self.update_word_list()
             self.word_input.clear()
             self.translation_input.clear()
@@ -93,14 +89,13 @@ class WordLearningApp(QWidget):
             self.show_message("Błąd", "Proszę wybrać język do quizu.")
             return
 
-        # Filtrujemy słówka według wybranego języka
         filtered_words = [word for word in self.words if word["language"] == language]
 
         if not filtered_words:
             self.show_message("Brak słówek", f"Brak słówek w języku {language} do quizu.")
             return
 
-        random_word = random.choice(filtered_words)  # Losowanie słówka z wybranego języka
+        random_word = random.choice(filtered_words)
         answer, ok = QInputDialog.getText(self, "Quiz", f"Jak przetłumaczyć słowo '{random_word['word']}'?")
 
         if ok and answer.strip().lower() == random_word['translation'].lower():
