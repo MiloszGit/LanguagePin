@@ -1,0 +1,487 @@
+[
+    {
+        "language": "Angielski",
+        "word": "cat",
+        "translation": "kot"
+    },
+    {
+        "language": "Angielski",
+        "word": "dog",
+        "translation": "pies"
+    },
+    {
+        "language": "Angielski",
+        "word": "house",
+        "translation": "dom"
+    },
+    {
+        "language": "Angielski",
+        "word": "book",
+        "translation": "ksi\u0105\u017cka"
+    },
+    {
+        "language": "Angielski",
+        "word": "apple",
+        "translation": "jab\u0142ko"
+    },
+    {
+        "language": "Angielski",
+        "word": "computer",
+        "translation": "komputer"
+    },
+    {
+        "language": "Angielski",
+        "word": "school",
+        "translation": "szko\u0142a"
+    },
+    {
+        "language": "Angielski",
+        "word": "car",
+        "translation": "samoch\u00f3d"
+    },
+    {
+        "language": "Angielski",
+        "word": "phone",
+        "translation": "telefon"
+    },
+    {
+        "language": "Angielski",
+        "word": "tree",
+        "translation": "drzewo"
+    },
+    {
+        "language": "Angielski",
+        "word": "sun",
+        "translation": "s\u0142o\u0144ce"
+    },
+    {
+        "language": "Angielski",
+        "word": "moon",
+        "translation": "ksi\u0119\u017cyc"
+    },
+    {
+        "language": "Angielski",
+        "word": "star",
+        "translation": "gwiazda"
+    },
+    {
+        "language": "Angielski",
+        "word": "sky",
+        "translation": "niebo"
+    },
+    {
+        "language": "Angielski",
+        "word": "earth",
+        "translation": "ziemia"
+    },
+    {
+        "language": "Angielski",
+        "word": "water",
+        "translation": "woda"
+    },
+    {
+        "language": "Angielski",
+        "word": "fire",
+        "translation": "ogie\u0144"
+    },
+    {
+        "language": "Angielski",
+        "word": "wind",
+        "translation": "wiatr"
+    },
+    {
+        "language": "Angielski",
+        "word": "mountain",
+        "translation": "g\u00f3ra"
+    },
+    {
+        "language": "Angielski",
+        "word": "river",
+        "translation": "rzeka"
+    },
+    {
+        "language": "Angielski",
+        "word": "city",
+        "translation": "miasto"
+    },
+    {
+        "language": "Angielski",
+        "word": "village",
+        "translation": "wioska"
+    },
+    {
+        "language": "Angielski",
+        "word": "country",
+        "translation": "kraj"
+    },
+    {
+        "language": "Angielski",
+        "word": "state",
+        "translation": "stan"
+    },
+    {
+        "language": "Angielski",
+        "word": "forest",
+        "translation": "las"
+    },
+    {
+        "language": "Angielski",
+        "word": "desert",
+        "translation": "pustynia"
+    },
+    {
+        "language": "Angielski",
+        "word": "ocean",
+        "translation": "ocean"
+    },
+    {
+        "language": "Angielski",
+        "word": "beach",
+        "translation": "pla\u017ca"
+    },
+    {
+        "language": "Angielski",
+        "word": "garden",
+        "translation": "ogr\u00f3d"
+    },
+    {
+        "language": "Angielski",
+        "word": "street",
+        "translation": "ulica"
+    },
+    {
+        "language": "Angielski",
+        "word": "building",
+        "translation": "budynek"
+    },
+    {
+        "language": "Angielski",
+        "word": "school",
+        "translation": "szko\u0142a"
+    },
+    {
+        "language": "Angielski",
+        "word": "university",
+        "translation": "uniwersytet"
+    },
+    {
+        "language": "Angielski",
+        "word": "hospital",
+        "translation": "szpital"
+    },
+    {
+        "language": "Angielski",
+        "word": "doctor",
+        "translation": "lekarz"
+    },
+    {
+        "language": "Angielski",
+        "word": "nurse",
+        "translation": "piel\u0119gniarka"
+    },
+    {
+        "language": "Angielski",
+        "word": "medicine",
+        "translation": "medycyna"
+    },
+    {
+        "language": "Angielski",
+        "word": "patient",
+        "translation": "pacjent"
+    },
+    {
+        "language": "Angielski",
+        "word": "teacher",
+        "translation": "nauczyciel"
+    },
+    {
+        "language": "Angielski",
+        "word": "student",
+        "translation": "ucze\u0144"
+    },
+    {
+        "language": "Angielski",
+        "word": "classroom",
+        "translation": "klasa"
+    },
+    {
+        "language": "Angielski",
+        "word": "library",
+        "translation": "biblioteka"
+    },
+    {
+        "language": "Angielski",
+        "word": "book",
+        "translation": "ksi\u0105\u017cka"
+    },
+    {
+        "language": "Angielski",
+        "word": "notebook",
+        "translation": "zeszyt"
+    },
+    {
+        "language": "Angielski",
+        "word": "pen",
+        "translation": "d\u0142ugopis"
+    },
+    {
+        "language": "Angielski",
+        "word": "pencil",
+        "translation": "o\u0142\u00f3wek"
+    },
+    {
+        "language": "Angielski",
+        "word": "desk",
+        "translation": "biurko"
+    },
+    {
+        "language": "Angielski",
+        "word": "chair",
+        "translation": "krzes\u0142o"
+    },
+    {
+        "language": "Angielski",
+        "word": "window",
+        "translation": "okno"
+    },
+    {
+        "language": "Angielski",
+        "word": "door",
+        "translation": "drzwi"
+    },
+    {
+        "language": "Angielski",
+        "word": "floor",
+        "translation": "pod\u0142oga"
+    },
+    {
+        "language": "Angielski",
+        "word": "roof",
+        "translation": "dach"
+    },
+    {
+        "language": "Angielski",
+        "word": "wall",
+        "translation": "\u015bciana"
+    },
+    {
+        "language": "Angielski",
+        "word": "light",
+        "translation": "\u015bwiat\u0142o"
+    },
+    {
+        "language": "Angielski",
+        "word": "dark",
+        "translation": "ciemno\u015b\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "day",
+        "translation": "dzie\u0144"
+    },
+    {
+        "language": "Angielski",
+        "word": "night",
+        "translation": "noc"
+    },
+    {
+        "language": "Angielski",
+        "word": "morning",
+        "translation": "ranek"
+    },
+    {
+        "language": "Angielski",
+        "word": "evening",
+        "translation": "wiecz\u00f3r"
+    },
+    {
+        "language": "Angielski",
+        "word": "afternoon",
+        "translation": "popo\u0142udnie"
+    },
+    {
+        "language": "Angielski",
+        "word": "time",
+        "translation": "czas"
+    },
+    {
+        "language": "Angielski",
+        "word": "clock",
+        "translation": "zegar"
+    },
+    {
+        "language": "Angielski",
+        "word": "watch",
+        "translation": "zegarek"
+    },
+    {
+        "language": "Angielski",
+        "word": "calendar",
+        "translation": "kalendarz"
+    },
+    {
+        "language": "Angielski",
+        "word": "date",
+        "translation": "data"
+    },
+    {
+        "language": "Angielski",
+        "word": "year",
+        "translation": "rok"
+    },
+    {
+        "language": "Angielski",
+        "word": "month",
+        "translation": "miesi\u0105c"
+    },
+    {
+        "language": "Angielski",
+        "word": "week",
+        "translation": "tydzie\u0144"
+    },
+    {
+        "language": "Angielski",
+        "word": "day",
+        "translation": "dzie\u0144"
+    },
+    {
+        "language": "Angielski",
+        "word": "hour",
+        "translation": "godzina"
+    },
+    {
+        "language": "Angielski",
+        "word": "minute",
+        "translation": "minuta"
+    },
+    {
+        "language": "Angielski",
+        "word": "second",
+        "translation": "sekunda"
+    },
+    {
+        "language": "Angielski",
+        "word": "child",
+        "translation": "dziecko"
+    },
+    {
+        "language": "Angielski",
+        "word": "adult",
+        "translation": "doros\u0142y"
+    },
+    {
+        "language": "Angielski",
+        "word": "man",
+        "translation": "m\u0119\u017cczyzna"
+    },
+    {
+        "language": "Angielski",
+        "word": "woman",
+        "translation": "kobieta"
+    },
+    {
+        "language": "Angielski",
+        "word": "family",
+        "translation": "rodzina"
+    },
+    {
+        "language": "Angielski",
+        "word": "friend",
+        "translation": "przyjaciel"
+    },
+    {
+        "language": "Angielski",
+        "word": "enemy",
+        "translation": "wr\u00f3g"
+    },
+    {
+        "language": "Angielski",
+        "word": "love",
+        "translation": "mi\u0142o\u015b\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "hate",
+        "translation": "nienawi\u015b\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "peace",
+        "translation": "pok\u00f3j"
+    },
+    {
+        "language": "Angielski",
+        "word": "war",
+        "translation": "wojna"
+    },
+    {
+        "language": "Angielski",
+        "word": "work",
+        "translation": "praca"
+    },
+    {
+        "language": "Angielski",
+        "word": "play",
+        "translation": "zabawa"
+    },
+    {
+        "language": "Angielski",
+        "word": "rest",
+        "translation": "odpoczynek"
+    },
+    {
+        "language": "Angielski",
+        "word": "sleep",
+        "translation": "sen"
+    },
+    {
+        "language": "Angielski",
+        "word": "wake",
+        "translation": "obudzi\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "eat",
+        "translation": "je\u015b\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "drink",
+        "translation": "pi\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "run",
+        "translation": "biega\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "walk",
+        "translation": "chodzi\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "jump",
+        "translation": "skaka\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "sit",
+        "translation": "siada\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "stand",
+        "translation": "sta\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "sleep",
+        "translation": "spa\u0107"
+    },
+    {
+        "language": "Angielski",
+        "word": "talk",
+        "translation": "rozmawia\u0107"
+    }
+]
